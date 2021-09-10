@@ -3,4 +3,4 @@ In love with
 - GCP ☁
 - Machine Learning 👾
 
-Let's connect on [LinkedIn](www.linkedin.com/in/laurenz-reitsam)
+Let's connect on [LinkedIn](https://www.linkedin.com/in/laurenz-reitsam)
